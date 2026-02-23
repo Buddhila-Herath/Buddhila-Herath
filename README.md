@@ -2,84 +2,111 @@
   <img src="https://komarev.com/ghpvc/?username=Buddhila-Herath&label=Profile%20Views&color=0e75b6&style=flat" alt="Buddhila-Herath" />
 </p>
 
-# <img src="https://raw.githubusercontent.com/MartinSchoeler/MartinSchoeler/master/hi.gif" width="30px"> I'm Buddhila Herath
+<h1 align="center">
+  Hi 👋 I'm Buddhila Herath
+</h1>
 
-### Undergraduate Software Engineer | Trainee @ CodeLantic (Pvt) Ltd
+<h3 align="center">
+  Undergraduate Software Engineer | Trainee @ CodeLantic (Pvt) Ltd
+</h3>
 
-🚀 **Aspiring Undergraduate Software Engineer | [cite_start]Passionate About Software Development** [cite: 6, 7]
-[cite_start]📧 **Email:** <a href="mailto:buddhilalakshan12@gmail.com" target="_blank">buddhilalakshan12@gmail.com</a> 
-[cite_start]🔗 **LinkedIn:** <a href="https://linkedin.com/in/buddhilaherath" target="_blank">linkedin.com/in/buddhilaherath</a> [cite: 4]
-📝 **Dev Blog:** <a href="https://dev.to/gitbuddhi" target="_blank">dev.to/gitbuddhi</a>
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/buddhilalakshan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:buddhilalakshan12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://buddhila-herath.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</p>
+<a href="https://www.linkedin.com/in/buddhilalakshan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
----
+<a href="mailto:buddhilalakshan12@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-### 💫 About Me
+<a href="https://buddhila-herath.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-* 🔭 **Current Role**: Working as a **Trainee Software Engineer** at **CodeLantic (Pvt) Ltd**[cite: 10, 11].
-* 🎓 **Education**: Pursuing **B.Sc. (Hons) [cite_start]in Information Technology** (Specializing in Software Engineering) at **SLIIT**[cite: 34, 35].
-* [cite_start]📈 **Academic Standing**: Current **GPA of 3.2**[cite: 35].
-* [cite_start]🚀 **Focus**: Passionate about building responsive applications, designing scalable architectures, and optimizing databases[cite: 7].
-* [cite_start]🌍 **Languages**: Fluent in English and **French (A1, A2, B1 Levels)**[cite: 38].
-
----
-
-### 🛠️ Tech Arsenal (Non-clickable)
-
-#### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-#### ⚙️ Backend & Frameworks
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-#### 💾 Databases, DevOps & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-#### ⌨️ Programming Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
----
-
-### 📂 Featured Projects
-
-* [cite_start]🍔 **<a href="https://github.com/gitbuddhila/BiteUp" target="_blank">BiteUp - Food Ordering System</a>**: A robust and scalable solution using **Java (Spring Boot with WebSockets)**, **React**, **Tailwind**, and **Docker** using a **microservices** architecture[cite: 17].
-* 🚗 **<a href="https://github.com/gitbuddhila/RideOn" target="_blank">RideOn - Mobility App</a>**: Real-time mobility safety app built with **React Native**, **Node.js**, and **MongoDB**. [cite_start]Features ride tracking, off-route detection, and instant safety alerts[cite: 18, 20].
-* [cite_start]🌎 **<a href="https://github.com/gitbuddhila/GeoGlobe" target="_blank">GeoGlobe - Country Explorer</a>**: Full-featured application engineered with **Spring Boot**, **React**, **Tailwind**, and **Docker**[cite: 22, 24].
-* [cite_start]👰 **<a href="https://github.com/gitbuddhila/Bridal_Ware" target="_blank">Swarna Bridalware</a>**: E-commerce web application offering bridal services, built with the **MERN stack**[cite: 25, 27, 28].
-* [cite_start]💰 **Finance Tracker**: **Spring Boot** based Personal Finance Tracker using **MongoDB** and a secure **RESTful API**[cite: 29, 31].
-
----
-
-### 📊 My GitHub Metrics
-<p align="left">
-<a href="https://github.com/Buddhila-Herath" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Buddhila-Herath&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhila-Herath&layout=compact&theme=dark" />
+<a href="https://dev.to/gitbuddhi" target="_blank">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
 </p>
 
 ---
 
-### 🌱 Currently Exploring
-* ☁️ Deepening knowledge in **Cloud Computing (AWS/Azure)**.
-* 🤖 Experimenting with **AI integration** in full-stack applications.
-* [cite_start]🛡️ Enhancing skills in **Software Security and Unit Testing**[cite: 44].
+## 💫 About Me
+
+- 🔭 **Trainee Software Engineer** at CodeLantic (Pvt) Ltd  
+- 🎓 B.Sc. (Hons) in Information Technology (Specializing in Software Engineering) – SLIIT  
+- 🚀 Passionate about Full-Stack Development & Scalable System Design  
+- 💡 Interested in Clean Architecture, Microservices & Cloud  
+- 🌍 Fluent in English | French (A1, A2, B1)
 
 ---
 
-### 📫 Connect with me
-- 💼 <a href="https://www.linkedin.com/in/buddhilalakshan/" target="_blank">LinkedIn Profile</a>
-- 🌐 <a href="https://buddhila-herath.vercel.app/" target="_blank">Portfolio Website</a>
-- 📝 <a href="https://dev.to/gitbuddhi" target="_blank">Dev.to Blog</a>
-- 📧 <a href="mailto:buddhilalakshan12@gmail.com" target="_blank">Email Me</a>
+# 🛠 Tech Stack
 
-<br />
+## 🌐 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+---
+
+## ⚙️ Backend & Frameworks
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## 💾 Databases & DevOps
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## ⌨ Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Buddhila-Herath&show_icons=true&theme=tokyonight&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhila-Herath&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- ☁️ Cloud Computing (AWS / Azure)
+- 🏗 Microservices Architecture
+- 🤖 AI Integration in Full-Stack Apps
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
