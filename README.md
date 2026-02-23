@@ -1,7 +1,6 @@
 <h1 align="center">
   Hi 👋 I'm Buddhila Herath
 </h1>
----
 
 ## 🌐 Connect With Me
 <p align="left">
@@ -22,12 +21,9 @@
 ---
 
 ## 💫 About Me
-*  🔭 **Current Role**: Working as a **Trainee Software Engineer** at **CodeLantic (Pvt) Ltd**
 * 🎓 **Education**: Pursuing **B.Sc. (Hons)  in Information Technology** (Specializing in Software Engineering) at **SLIIT**
-*  📈 **Academic Standing**: Current **GPA of 3.2**
 *  🚀 **Focus**: Passionate about building responsive applications, designing scalable architectures, and optimizing databases
 *  🌍 **Languages**: Fluent in English and **French (A1, A2, B1 Levels)**
-
 ---
 
 # 🛠 Tech Stack
@@ -43,6 +39,7 @@
 
 ### ⌨ Programming Languages
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+---
 
 <!-- <p align="center"> ---
 # 📊 GitHub Stats
