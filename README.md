@@ -1,11 +1,6 @@
 <h1 align="center">
   Hi 👋 I'm Buddhila Herath
 </h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Buddhila-Herath&label=Profile%20Views&color=0e75b6&style=flat" alt="Buddhila-Herath" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
@@ -27,11 +22,11 @@
 ---
 
 ## 💫 About Me
-* [cite_start]🔭 **Current Role**: Working as a **Trainee Software Engineer** at **CodeLantic (Pvt) Ltd**[cite: 10, 11].
-* 🎓 **Education**: Pursuing **B.Sc. (Hons) [cite_start]in Information Technology** (Specializing in Software Engineering) at **SLIIT**[cite: 34, 35].
-* [cite_start]📈 **Academic Standing**: Current **GPA of 3.2**[cite: 35].
-* [cite_start]🚀 **Focus**: Passionate about building responsive applications, designing scalable architectures, and optimizing databases[cite: 7].
-* [cite_start]🌍 **Languages**: Fluent in English and **French (A1, A2, B1 Levels)**[cite: 38].
+*  🔭 **Current Role**: Working as a **Trainee Software Engineer** at **CodeLantic (Pvt) Ltd**
+* 🎓 **Education**: Pursuing **B.Sc. (Hons)  in Information Technology** (Specializing in Software Engineering) at **SLIIT**
+*  📈 **Academic Standing**: Current **GPA of 3.2**
+*  🚀 **Focus**: Passionate about building responsive applications, designing scalable architectures, and optimizing databases
+*  🌍 **Languages**: Fluent in English and **French (A1, A2, B1 Levels)**
 
 ---
 
@@ -49,26 +44,9 @@
 ### ⌨ Programming Languages
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
----
-
-# 📂 Featured Projects
-
-* [cite_start]🍔 **BiteUp - Food Ordering System**: A robust and scalable solution using **Java (Spring Boot with WebSockets)**, **React**, and **Docker**[cite: 15, 17].
-* [cite_start]🚗 **RideOn - Mobility App**: Real-time mobility safety app built with **React Native**, **Node.js**, and **MongoDB**[cite: 18, 20].
-* [cite_start]🌎 **GeoGlobe - Country Explorer**: Full-featured application engineered with **Spring Boot**, **React**, and **Tailwind**[cite: 22, 24].
-* [cite_start]👰 **Swarna Bridalware**: E-commerce web application offering bridal services, built with the **MERN stack**[cite: 25, 27].
-* [cite_start]💰 **Finance Tracker**: **Spring Boot** based Personal Finance Tracker using **MongoDB** and a secure **RESTful API**[cite: 29, 31].
-
----
-
+<!-- <p align="center"> ---
 # 📊 GitHub Stats
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Buddhila-Herath&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhila-Herath&layout=compact&theme=dark&hide_border=true" height="170" />
-</p>
+</p> -->
 
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
