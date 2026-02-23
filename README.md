@@ -1,14 +1,6 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Buddhila-Herath&label=Profile%20Views&color=0e75b6&style=flat" alt="Buddhila-Herath" />
-</p>
-
 <h1 align="center">
   Hi 👋 I'm Buddhila Herath
 </h1>
-
-<h3 align="center">
-  Undergraduate Software Engineer | Trainee @ CodeLantic (Pvt) Ltd
-</h3>
 
 ---
 
@@ -36,7 +28,6 @@
 
 ## 💫 About Me
 
-- 🔭 **Trainee Software Engineer** at CodeLantic (Pvt) Ltd  
 - 🎓 B.Sc. (Hons) in Information Technology (Specializing in Software Engineering) – SLIIT  
 - 🚀 Passionate about Full-Stack Development & Scalable System Design  
 - 💡 Interested in Clean Architecture, Microservices & Cloud  
@@ -56,7 +47,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 ---
 
@@ -96,14 +86,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Buddhila-Herath&show_icons=true&theme=tokyonight&count_private=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhila-Herath&layout=compact&theme=tokyonight" height="170" />
 </p>
-
----
-
-## 🌱 Currently Exploring
-
-- ☁️ Cloud Computing (AWS / Azure)
-- 🏗 Microservices Architecture
-- 🤖 AI Integration in Full-Stack Apps
 
 ---
 
