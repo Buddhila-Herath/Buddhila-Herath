@@ -15,11 +15,11 @@
 
 ### 💫 About Me
 
-* 🔭 **Current Role**: [cite_start]Working as a **Trainee Software Engineer** at **CodeLantic (Pvt) Ltd**[cite: 10, 11].
-* 🎓 **Education**: [cite_start]Pursuing **B.Sc. (Hons) in Information Technology** (Specializing in Software Engineering) at **SLIIT**[cite: 34, 35].
-* 📈 **Academic Standing**: [cite_start]Current **GPA of 3.2**[cite: 35].
-* 🚀 **Focus**: [cite_start]Passionate about building responsive applications, designing scalable architectures, and optimizing databases[cite: 7].
-* 🌍 **Languages**: [cite_start]Fluent in English and **French (A1, A2, B1 Levels)**[cite: 38].
+* 🔭 **Current Role**: Working as a **Trainee Software Engineer** at **CodeLantic (Pvt) Ltd**.
+* 🎓 **Education**: Pursuing **B.Sc. (Hons) in Information Technology** (Specializing in Software Engineering) at **SLIIT**.
+* 📈 **Academic Standing**: Current **GPA of 3.2**.
+* 🚀 **Focus**: Passionate about building responsive applications, designing scalable architectures, and optimizing databases.
+* 🌍 **Languages**: Fluent in English and **French (A1, A2, B1 Levels)**.
 
 ---
 
@@ -41,11 +41,11 @@
 
 ### 📂 Featured Projects
 
-* 🍔 **<a href="https://github.com/gitbuddhila/BiteUp" target="_blank">BiteUp - Food Ordering System</a>**: [cite_start]A robust and scalable solution using **Java (Spring Boot with WebSockets)**, **React**, **Tailwind**, and **Docker** using a **microservices** architecture[cite: 17].
-* 🚗 **<a href="https://github.com/gitbuddhila/RideOn" target="_blank">RideOn - Mobility App</a>**: [cite_start]Real-time mobility safety app built with **React Native**, **Node.js**, and **MongoDB**. Features ride tracking, off-route detection, and instant safety alerts[cite: 18, 20].
-* 🌎 **<a href="https://github.com/gitbuddhila/GeoGlobe" target="_blank">GeoGlobe - Country Explorer</a>**: [cite_start]Full-featured application engineered with **Spring Boot**, **React**, **Tailwind**, and **Docker**[cite: 22, 24].
-* 👰 **<a href="https://github.com/gitbuddhila/Bridal_Ware" target="_blank">Swarna Bridalware</a>**: [cite_start]E-commerce web application offering bridal services, built with the **MERN stack**[cite: 25, 27, 28].
-* 💰 **Finance Tracker**: [cite_start]**Spring Boot** based Personal Finance Tracker using **MongoDB** and a secure **RESTful API**[cite: 29, 31].
+* 🍔 **<a href="https://github.com/gitbuddhila/BiteUp" target="_blank">BiteUp - Food Ordering System</a>**: A robust and scalable solution using **Java (Spring Boot with WebSockets)**, **React**, **Tailwind**, and **Docker** using a **microservices** architecture.
+* 🚗 **<a href="https://github.com/gitbuddhila/RideOn" target="_blank">RideOn - Mobility App</a>**: Real-time mobility safety app built with **React Native**, **Node.js**, and **MongoDB**. Features ride tracking, off-route detection, and instant safety alerts.
+* 🌎 **<a href="https://github.com/gitbuddhila/GeoGlobe" target="_blank">GeoGlobe - Country Explorer</a>**: Full-featured application engineered with **Spring Boot**, **React**, **Tailwind**, and **Docker**.
+* 👰 **<a href="https://github.com/gitbuddhila/Bridal_Ware" target="_blank">Swarna Bridalware</a>**: E-commerce web application offering bridal services, built with the **MERN stack**.
+* 💰 **Finance Tracker**: **Spring Boot** based Personal Finance Tracker using **MongoDB** and a secure **RESTful API**.
 
 ---
 
@@ -62,13 +62,14 @@
 ### 🌱 Currently Exploring
 * ☁️ Deepening knowledge in **Cloud Computing (AWS/Azure)**.
 * 🤖 Experimenting with **AI integration** in full-stack applications.
-* [cite_start]🛡️ Enhancing skills in **Software Security and Unit Testing**[cite: 44].
+* 🛡️ Enhancing skills in **Software Security and Unit Testing**.
 
 ---
 
 ### 📫 Connect with me
 - 💼 <a href="https://www.linkedin.com/in/buddhilalakshan/" target="_blank">LinkedIn Profile</a>
 - 🌐 <a href="https://buddhila-herath.vercel.app/" target="_blank">Portfolio Website</a>
+- 📝 <a href="https://dev.to/gitbuddhi" target="_blank">Dev.to Blog</a>
 - 📧 <a href="mailto:buddhilalakshan32620@gmail.com" target="_blank">Email Me</a>
 
 <br />
